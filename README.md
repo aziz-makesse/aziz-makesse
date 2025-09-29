@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Abdelaziz Makesse
+# Abdelaziz Makesse
 
 🎓 Master’s student in **Networks & Distributed Systems (M2)** at USTHB
 
