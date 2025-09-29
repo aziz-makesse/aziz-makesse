@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Abdelaziz Makesse
 
 🎓 Master’s student in **Networks & Distributed Systems (M2)** at USTHB
+
 🤖 Enthusiast of **Artificial Intelligence, Deep Learning & Network Security**
+
 🌍 Based in Algiers, Algeria
 
 ---
