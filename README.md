@@ -50,10 +50,13 @@
 
 ---
 
-## 📫 How to reach me
+## 🌐 Connect with me
 
-* ✉️ Email: **[makesse.abdelaziz@gmail.com](mailto:makesse.abdelaziz@gmail.com)**
-* 💼 LinkedIn: [linkedin.com/in/abdelazizmakesse](https://www.linkedin.com/in/abdelazizmakesse)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:makesse.abdelaziz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelazizmakesse)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/azizmks_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/aziz.makesse)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/__seazy__)
 
 ---
 
